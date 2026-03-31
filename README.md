@@ -12,3 +12,6 @@ At the end of the project I will be able to do simple sites from the scratch.
 I have added this line to check how git add works
 
 This is my second change, i guess it should be shown as second or other change
+
+Third check of git add.
+
